@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TwoWaves</string>
+    <string name="_660_hz">660 Hz</string>
+    <string name="_440_hz">440 Hz</string>
+</resources>
